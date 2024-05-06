@@ -6,7 +6,7 @@ Maker Media GmbH
 
 # Payment-Ring im Eigenbau
 
-**Bezahlen praktisch im Vorbeigehen, ohne den Geldbeutel zu zücken – NFC-Chips, die etwa in Uhren, Armbänder oder Ringen eingebettet sind, machen es möglich. Wer solche Bezahl-Gegenstände selber baut, kann sie frei nach den eigenen Wünschen gestalten und kommt deutlich günstiger weg. **
+**Bezahlen praktisch im Vorbeigehen, ohne den Geldbeutel zu zücken – NFC-Chips, die etwa in Uhren, Armbänder oder Ringen eingebettet sind, machen es möglich. Wer solche Bezahl-Gegenstände selber baut, kann sie frei nach den eigenen Wünschen gestalten und kommt deutlich günstiger weg.**
 
 ![Aufmacherbild aus dem Heft](./doc/Aufmacher.JPG)
 
