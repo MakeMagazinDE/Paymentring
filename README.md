@@ -12,4 +12,4 @@ Maker Media GmbH
 
 Hier gibt es das [OpenSCAD-Skript](./src/Basisring.scad) für den universellen Basisring, der an die eigene Fingergröße angepasst werden kann.
 
-Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 3/24](https://www.heise.de/select/make/2024/3/2406816333194677299)** oder auf **[heise+](https://www.heise.de/make/)**.
+Der vollständige Artikel zum Projekt steht in der **[Make-Ausgabe 3/24](https://www.heise.de/select/make/2024/3/2406816333194677299)** oder auf **[heise+](https://heise.de/-9712546)**.
